@@ -1,0 +1,250 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-britain-eu-idUSKCN0Z902K?feedType=RSS&feedName=worldNews HTTP/1.1" 200 30858
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-southchinasea-china-usa-idUSKCN0Z910M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22628
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-philippines-militants-idUSKCN0Z91C5?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22987
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-manbij-idUSKCN0Z916Z?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-japan-idUSKCN0Z90PA?feedType=RSS&feedName=worldNews HTTP/1.1" 200 25579
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-un-idUSKCN0Z91A7?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21823
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-russia-turkey-invitation-idUSKCN0Z91DL?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21693
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bahrain-politics-idUSKCN0Z9146?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22320
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-kim-idUSKCN0Z82PB?feedType=RSS&feedName=worldNews HTTP/1.1" 200 23853
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-spain-election-idUSKCN0Z918M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 26028
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=topNews HTTP/1.1" 200 20519
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=topNews HTTP/1.1" 200 22114
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=topNews HTTP/1.1" 200 23397
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=topNews HTTP/1.1" 200 22143
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=topNews HTTP/1.1" 200 20801
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=topNews HTTP/1.1" 200 22201
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/belarus-potash-idINKCN0Z90SI?feedType=RSS&feedName=topNews HTTP/1.1" 200 21590
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=topNews HTTP/1.1" 200 21522
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=topNews HTTP/1.1" 200 20251
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/britain-eu-idINKCN0Z902O?feedType=RSS&feedName=topNews HTTP/1.1" 200 27418
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22109
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21520
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20246
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-stocks-idINKCN0Z90S3?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20669
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20519
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22147
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/belarus-potash-idINKCN0Z90SI?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21589
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=businessNews HTTP/1.1" 200 23401
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20801
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/global-oil-idINKCN0Z902R?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21426
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22233
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-minority-idINKCN0Z82UQ?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23528
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-idINKCN0Z90SG?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-pakistan-karachi-killing-idINKCN0Z90SB HTTP/1.1" 200 21214
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/cyber-heist-bangladesh-idINKCN0Z81ZE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21750
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/china-wine-idINKCN0Z82VH?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23474
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/nepal-bodies-afghanistan-idINKCN0Z814W?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21600
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-lightning-disaster-idINKCN0Z81U4?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22062
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-sabri-idINKCN0Z81CO?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21943
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-security-idINKCN0Z80X1?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21392
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-climatechange-erosion-displac-idINKCN0Z80FE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bangladesh-climatechange-erosion-disp-idINKCN0Z80JO HTTP/1.1" 200 20867
+ERROR:root:Time: 2016-06-23 18:30:57.622770Message: 'updated'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-britain-eu-idUSKCN0Z902K?feedType=RSS&feedName=worldNews HTTP/1.1" 200 30884
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-southchinasea-china-usa-idUSKCN0Z910M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22701
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-philippines-militants-idUSKCN0Z91C5?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22991
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-manbij-idUSKCN0Z916Z?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22101
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-japan-idUSKCN0Z90PA?feedType=RSS&feedName=worldNews HTTP/1.1" 200 25644
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-un-idUSKCN0Z91A7?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21892
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-russia-turkey-invitation-idUSKCN0Z91DL?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21710
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bahrain-politics-idUSKCN0Z9146?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22390
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-kim-idUSKCN0Z82PB?feedType=RSS&feedName=worldNews HTTP/1.1" 200 23916
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-spain-election-idUSKCN0Z918M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 26028
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=topNews HTTP/1.1" 200 20520
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=topNews HTTP/1.1" 200 22115
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=topNews HTTP/1.1" 200 23396
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=topNews HTTP/1.1" 200 22144
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=topNews HTTP/1.1" 200 20801
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=topNews HTTP/1.1" 200 22180
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/belarus-potash-idINKCN0Z90SI?feedType=RSS&feedName=topNews HTTP/1.1" 200 21587
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=topNews HTTP/1.1" 200 21524
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=topNews HTTP/1.1" 200 20245
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/britain-eu-idINKCN0Z902O?feedType=RSS&feedName=topNews HTTP/1.1" 200 27416
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22112
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21519
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20250
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-stocks-idINKCN0Z90S3?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20670
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20522
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22146
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/belarus-potash-idINKCN0Z90SI?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21588
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=businessNews HTTP/1.1" 200 23397
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20800
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/global-oil-idINKCN0Z902R?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21426
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22181
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-minority-idINKCN0Z82UQ?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23529
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-idINKCN0Z90SG?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-pakistan-karachi-killing-idINKCN0Z90SB HTTP/1.1" 200 21215
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/cyber-heist-bangladesh-idINKCN0Z81ZE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21746
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/china-wine-idINKCN0Z82VH?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23479
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/nepal-bodies-afghanistan-idINKCN0Z814W?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21601
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-lightning-disaster-idINKCN0Z81U4?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22063
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-sabri-idINKCN0Z81CO?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21942
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-security-idINKCN0Z80X1?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21392
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-climatechange-erosion-displac-idINKCN0Z80FE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bangladesh-climatechange-erosion-disp-idINKCN0Z80JO HTTP/1.1" 200 20867
+ERROR:root:Time: 2016-06-23 18:33:26.261974Message: 'updated'
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-britain-eu-idUSKCN0Z902K?feedType=RSS&feedName=worldNews HTTP/1.1" 200 30884
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-southchinasea-china-usa-idUSKCN0Z910M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22701
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-philippines-militants-idUSKCN0Z91C5?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22991
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-manbij-idUSKCN0Z916Z?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22101
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-japan-idUSKCN0Z90PA?feedType=RSS&feedName=worldNews HTTP/1.1" 200 25644
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-mideast-crisis-syria-un-idUSKCN0Z91A7?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21892
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-russia-turkey-invitation-idUSKCN0Z91DL?feedType=RSS&feedName=worldNews HTTP/1.1" 200 21710
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bahrain-politics-idUSKCN0Z9146?feedType=RSS&feedName=worldNews HTTP/1.1" 200 22390
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-northkorea-missile-kim-idUSKCN0Z82PB?feedType=RSS&feedName=worldNews HTTP/1.1" 200 23916
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-spain-election-idUSKCN0Z918M?feedType=RSS&feedName=worldNews HTTP/1.1" 200 26028
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=topNews HTTP/1.1" 200 20520
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=topNews HTTP/1.1" 200 22115
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=topNews HTTP/1.1" 200 23396
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=topNews HTTP/1.1" 200 22144
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=topNews HTTP/1.1" 200 20801
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-cotton-imports-idINKCN0Z91DT?feedType=RSS&feedName=topNews HTTP/1.1" 200 21229
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=topNews HTTP/1.1" 200 22180
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=topNews HTTP/1.1" 200 21524
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=topNews HTTP/1.1" 200 20245
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/britain-eu-idINKCN0Z902O?feedType=RSS&feedName=topNews HTTP/1.1" 200 27416
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/vodafone-group-india-ipo-idINKCN0Z915U?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22112
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/sun-pharma-skincare-idINKCN0Z9168?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21519
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/russia-india-potash-idINKCN0Z90YC?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20250
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-stocks-idINKCN0Z90S3?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20670
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-monsoon-monsoon-idINKCN0Z916S?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20522
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/state-bank-india-bombs-idINKCN0Z906B?feedType=RSS&feedName=businessNews HTTP/1.1" 200 22146
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/belarus-potash-idINKCN0Z90SI?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21588
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-tata-sons-airlines-idINKCN0Z905C?feedType=RSS&feedName=businessNews HTTP/1.1" 200 23397
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/india-lic-chairman-idINKCN0Z90QQ?feedType=RSS&feedName=businessNews HTTP/1.1" 200 20800
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/global-oil-idINKCN0Z902R?feedType=RSS&feedName=businessNews HTTP/1.1" 200 21426
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-afghanistan-refugees-idINKCN0Z91BX?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22181
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-minority-idINKCN0Z82UQ?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23529
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-idINKCN0Z90SG?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-pakistan-karachi-killing-idINKCN0Z90SB HTTP/1.1" 200 21215
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/cyber-heist-bangladesh-idINKCN0Z81ZE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21746
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/china-wine-idINKCN0Z82VH?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 23479
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/nepal-bodies-afghanistan-idINKCN0Z814W?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21601
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-lightning-disaster-idINKCN0Z81U4?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 22063
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/pakistan-karachi-killing-sabri-idINKCN0Z81CO?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21942
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/afghanistan-security-idINKCN0Z80X1?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 200 21392
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): in.reuters.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/bangladesh-climatechange-erosion-displac-idINKCN0Z80FE?feedType=RSS&feedName=southAsiaNews HTTP/1.1" 301 0
+DEBUG:requests.packages.urllib3.connectionpool:"GET /article/us-bangladesh-climatechange-erosion-disp-idINKCN0Z80JO HTTP/1.1" 200 20867
+ERROR:root:Time: 2016-06-23 18:35:45.471738Message: 'updated'
+ERROR:root:Time: 2016-06-24 10:55:48.610269Message: 'updated'

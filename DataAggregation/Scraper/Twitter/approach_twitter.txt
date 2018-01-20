@@ -1,0 +1,103 @@
+If I post really good news on twitter, a lot of people might start publicly congratulating me.
+So If I post X, and then get a lot of 'Congrats' tweets from other people, then X is probably positive.
+In general, the type and frequency of people who retweet my tweet might have something to do with its inherent sentiment.
+
+elongated words (eg. goooood)
+
+topics: what are the main areas of discussion?
+aspects (subtopics and attributes): what about those topics is being talked about?
+sentiment: what is the sentiment of the content and the opinions contained?
+holder: whose opinion is being discussed? Are there multiple in the same content? If so, how do they differ, if at all?
+time: when was this content posted?
+
+DECEMBER 16, 2013 — 13 COMMENTS
+ON SOCIAL SENTIMENT AND SENTIMENT ANALYSIS
+When asked “what is sentiment analysis?“, the default answer is often “detecting and understanding how the audience is reacting to a brand, either positively or negatively“.
+
+
+The truth is, that only describes a fraction of what sentiment analysis involves and its potential. While some marketers prefer leaving the analysis to dedicated tools, the science behind sentiment analysis is nothing short from fascinating – the various levels of analysis, the detail and the intricacy that make this analysis more accurate when performed by another human rather than a machine.
+
+Nowadays, sentiment analysis is an integral part of social listening, although it can also be performed on its own. The usual approach to this is with the following guideline:
+
+“If a piece of content has more positive keywords than negative keyword, it’s positive content; if it has more negative keywords than positive keywords, it’s negative content.”
+
+While this is not completely incorrect, there is a lot more to that. Here I’m going to explain at a surface level how this analysis actually works, the implications of automating sentiment analysis, and what the future holds for sentiment analysis.
+
+What is Sentiment Analysis?
+
+Sentiment analysis is more than just a feature in a social analytics tool – it’s a field of study. This is a field that is still being studied, albeit not at great lengths due to the intricacy of this analysis, in the same way that some aspects of linguistics are still up to debate or not fully understood.
+
+When you perform sentiment analysis on some content, you’re basically looking for the opinions in content and picking the sentiment within those opinions.
+
+An opinion is an expression (a binomial to be precise) that consists of two key components:
+
+A target (which we shall call “topic”, as referred to by most social Analytics tools);
+A sentiment on the target/topic.
+So, in “I love this company“, “this company” is the topic, and the sentiment (as expressed by the verb “love“) is positive.
+
+Semantics and Sentiment
+
+While a few tools out there rely on scoring sentiment words based on their “polarity” (i.e. their position on a scale between positive and negative), accurate sentiment analysis doesn’t look at only keywords or individual words alone, because of semantics.
+
+Semantics is the study of the relation of words, phrases, signs and their denotation (i.e. what signs stand for). Because of semantics, we can’t assume that a sentence that contains a positive sentiment word (e.g. “useful”) is also positive, or that a sentence that contains a negative sentiment word (e.g. “useless”) is also negative. In fact, other words can invert the sentiment of a word, such as:
+
+sentiment shifters (e.g. “I find this tool less useful than yours”);
+connectives (e.g. “This tool is everything but useful”);
+modals (e.g. “In theory, this tool should be useful”).
+Besides individual words, expressions and phrases can be used to show sentiment. Take for instance “I’m over the moon“. If taken word for word, ‘over‘ and ‘moon‘ are not sentiment words, as they don’t express any positivity or negativity. Hence, we can conclude that sentiment cannot be accurately presumed from word-by-word analysis, but rather on a level that allows for semantic interpretation.
+
+Automated Sentiment Analysis in Social Listening
+
+When looking for a Social Listening tool (e.g. Brandwatch, Synthesio, Salesforce Radian 6, Crimson Hexagon, Attensity), it’s now the norm to look for automated sentiment analysis as an added feature. The lack or low accuracy of this feature can definitely be a deal breaker. However, whether you choose to rely on a tool to look for sentiment, or you feel brave enough to do so manually (depending on the volume of content), it’s important to understand what goes on behind the scenes and the building blocks that make sentiment analysis works.
+
+For example: imagine someone, Joe Smith, writing on SimplyMeasured’s Facebook wall with the following comment on December 16th 2013:
+
+I’ve just registered for a trial with SimplyMeasured. I’m loving it so far. The reports are incredible. Their blog is so informative, too. However, my colleague thinks it’s expensive. – date: December 16, 2013.
+
+We can break this down into sentences:
+
+(1) I’ve just registered for a trial with SimplyMeasured. (2) I’m loving it so far. (3) The reports are incredible. (4) Their blog is so informative, too. (5) However, my colleague thinks it’s expensive.
+
+While this comment is generally positive, it can be broken down into sentences. This comment has a number of opinions around SimplyMeasured, both positive and negative.
+
+Sentence 1 is neutral, as it doesn’t offer any sentiment.
+Sentence 2 expresses a positive opinion about the tool as a whole.
+Sentence 3 expresses a positive opinion about the tool’s reports.
+Sentence 4 expresses a positive opinion about the company’s blog.
+Sentence 5 expresses a negative opinion about the tool’s pricing, this time from the eyes of the writer’s colleague.
+From this we can deduce the following:
+
+Content can have opinions from more than one person, which we shall call “opinion holder“. The opinion holder for sentences (2), (3), and (4) is John Smith, while the opinion holder for sentence (5) is John Smith’s colleague.
+Unlike sentence (1), we can’t take sentences (2), (3), (4) and (5) out of context, as they wouldn’t make much sense when read their own. Taking sentence (3) as an example, we can see that the opinion is around one aspect of SimplyMeasured – “reports“. An in depth review would also look at various attributes of this subtopic: the reports’ reliability, design, layout, performance etc. So, topics can be broken down into aspects, as the graph below shows.
+social sentiment analysis
+
+Longer reviews can also have a longer list of opinions, as commonly found on forums and review sites, whether it’s a hotel review on Tripadvisor or a list of gaming reviews. That’s when we start seeing a nested relationship between the main topic of the review and its various aspects (subtopics and attributes included), a bit like this….
+social sentiment analysis
+
+Lastly, opinions may change over time, depending on a lot of factors, both subjective (e.g. user perception) or objective (e.g. change in pricing). Hence, it’s imperative that not only sentiment but also time is taken into account during sentiment analysis.
+
+Now we have the 5 main factors to look at when doing sentiment analysis in social listening:
+
+topics: what are the main areas of discussion?
+aspects (subtopics and attributes): what about those topics is being talked about?
+sentiment: what is the sentiment of the content and the opinions contained?
+holder: whose opinion is being discussed? Are there multiple in the same content? If so, how do they differ, if at all?
+time: when was this content posted?
+Levels of Analysis
+
+Let’s refer back to Joe Smith’s review on SimplyMeasured’s Facebook wall:
+
+I’ve just registered for a trial with SimplyMeasured. I’m loving it so far. The reports are incredible. Their blog is so informative, too. However, my colleague thinks it’s expensive. – date: December 13, 2013.
+
+While you can approach sentiment analysis in a few ways, you’ll ultimately find three methods:
+
+Document level: analysing the overall sentiment expressed in the text. This works best on the assumption that the whole comment only discusses one topic.
+Overall, this comment is positive.
+Sentence level: examining the sentiment expressed in sentences.
+Out of the 5 sentences, the first one doesn’t express any sentiment, as it only states a fact (“I’ve just registered for a trial with SimplyMeasured“). The remaining sentences express sentiment: the second, third, and fourth sentences are positive, while the fifth one is negative.
+Entity and aspect level: this granular analysis takes into consideration each opinion expressed in the content. The opinions on the reports, blog, and the trial are positive, while the opinion on the price is negative.
+
+Subjective information – whether it is in written or spoken form – is generally considered to be a single person’s opinion. It has a viewpoint, or possibly a bias, regardless of the information it provides. Objective information on the other hand is meant to be completely unbiased. There is a feeling of the writer or speaker being outside of the information, and when they present it they do so without taking a stance or expressing their feelings in relation to that information.
+
+Sentiment is influenced by emotion, a subjective feeling or thought. The strength of a sentiment is usually linked to the intensity of emotions felt by the opinion holder.
+
