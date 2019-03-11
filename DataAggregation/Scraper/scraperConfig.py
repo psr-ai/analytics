@@ -4,7 +4,7 @@ URL = 'https://www.facebook.com/search/latest/?q=\'india\''
 login = {
     'username_dom': [{'type': 'xpath', 'name': '//*[@id=\"email\"]'}],
     'password_dom': [{'type': 'name', 'name': 'pass'},],
-    'details': {'username': 'raiprabhjot', 'password': 'prabh@123#3'}
+    'details': {'username': '', 'password': ''}
 }
 
 # social_entity can be a Facebook post, a Tweet or a News Article
